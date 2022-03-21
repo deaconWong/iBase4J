@@ -48,7 +48,7 @@
 		<!-- -->
 		<sentinel.version>0.1.0</sentinel.version>
 		<druid.version>1.1.10</druid.version>
-		<dubbo.version>2.6.2</dubbo.version>
+		<dubbo.version>2.6.9</dubbo.version>
 		<fastjson.version>1.2.47</fastjson.version>
 		<motan.version>1.1.1</motan.version>
 		<!-- -->
